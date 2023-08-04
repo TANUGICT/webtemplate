@@ -1,0 +1,21 @@
+.footer{
+    border: 1px solid;
+    background-color: hotpink;
+}
+ .footer .para{
+    float: left;
+    
+     
+ }
+ 
+ .footer .pa{
+    margin-left: 80%;
+    font-size: 20px;
+     
+ }
+ .para h1{
+    color: white;
+ }
+ .pa h3{
+    color: white;
+ }
