@@ -1,12 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Service page</title>
-    <link rel="stylesheet" href="service.css">
-</head>
-<body>
+
+<?php include 'include/header.php'?>
     <h1>Service Page</h1>
     <div class="service">
         <p>Web devilopment & App created</p>
@@ -23,5 +16,4 @@
     <div class="service" style="background-color:yellow;">
         <p>Web devilopment & App created</p>
     </div>
-</body>
-</html>
+    <?php include 'include/footer.php'?>
