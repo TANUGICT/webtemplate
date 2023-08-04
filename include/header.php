@@ -22,21 +22,5 @@
         </ul>
     </div>
 
-=======
-<<<<<<< HEAD
-
-    <div class="footer">
-        <div class="para">
-        <h1>GICT COMPUTER</h1>
-        </div>
-        <div class="pa">
-        <h3>gictcomputer@gmail.com</h3>
-        </div>
-    </div>
->>>>>>> 855bb5f68e6e013feaa0528d465a0145513467cf
 </body>
 </html>
-
-
-
- 
