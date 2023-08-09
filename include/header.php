@@ -16,11 +16,8 @@
     <div class="header">
         <h2 class="h2">Gict computer</h2>
         <ul>
-<<<<<<< HEAD
             <li><a class="active" href="main.php">Home</a></li>
-=======
             <li><a href="main.php">Home</a></li>
->>>>>>> 53212bb0bd47ef79e509ba89c9ba63bd0c9dedf1
             <li><a href="about">About</a></li>
             <li><a href="Contact.php">Contact Us</a></li>
             <li><a href="service.php">Services</a></li>
