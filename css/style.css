@@ -15,12 +15,13 @@
     margin-left: 45px;
 
 }
-.header li a{
-    text-decoration: none;
-}
 .radha h1{
     background-color: red;
     color: white;
+}
+
+.header li a{
+    text-decoration: none;
 }
 .footer{
     background-color: hotpink;
