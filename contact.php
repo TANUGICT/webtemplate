@@ -1,4 +1,4 @@
-<?php include 'include/header.php'?>
+
 <div class="laita">
     
 <div class="radha">
@@ -15,4 +15,3 @@
     </div>
    
 
-<?php include 'include/header.php'?>
