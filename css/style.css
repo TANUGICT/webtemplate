@@ -18,3 +18,15 @@
 .header li a{
     text-decoration: none;
 }
+.radha h1{
+    background-color: red;
+    color: white;
+}
+.footer{
+    background-color: hotpink;
+
+}
+.para{
+    background-color: blue;
+    color: white;
+}
