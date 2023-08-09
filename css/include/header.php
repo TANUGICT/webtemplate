@@ -7,12 +7,8 @@
     <title>website</title>
     <link rel="stylesheet" href="css/service.css">
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/service.css">
     <link rel="stylesheet" href="css/footer.css">
-<<<<<<< HEAD
-    <link rel="stylesheet" href="css/contact.css">
-=======
-    <link rel="stylesheet" href="css/gallery.css">
->>>>>>> e4ff928fb32d1ce8315783c68e331d1aecfe8b80
 
 </head>
 <body>
