@@ -7,13 +7,32 @@
     list-style-type: none;
     margin: 0px;
     padding: 0px;
-    height: 45px;
+    height: 35px;
+   
 }
 .header li{
     display: inline;
-    padding: 2px 16px;
-    margin-left: 45px;
+<<<<<<< HEAD
+     
+=======
+  
+>>>>>>> f12ec720fef55308ced8ee4a6d5ce79c8ef109c9
+    margin-left: 140px;
+    
+   
+    
 
+}
+h2{
+    color: rgb(85, 2, 2);
+}
+.header li a.active{
+    background-color: blue;
+    
+}
+.header li a:hover{
+    background-color: green;
+    color: red;
 }
 .radha h1{
     background-color: red;
