@@ -18,7 +18,7 @@
     <div class="img-gallery">
         <img src="images/11.jpg" alt="">
         <img src="images/3.jpg" alt="">
-        <img src="images/6.jpg" alt="">
+        <img src="images/5.jpg" alt="">
         <img src="images/banner.avif" alt="">
         <img src="images/download (3).jfif" alt="">
         <img src="images/download (1).jfif" alt="">
