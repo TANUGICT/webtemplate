@@ -6,7 +6,7 @@
     
 <div class="radha">
     <h3>gict computer</h3>
-    <h4>GICT COMPUTER</h4>
+  
         <h1>I'am a good development</h1>
         <h2>He is a browser</h2>
     </div>
