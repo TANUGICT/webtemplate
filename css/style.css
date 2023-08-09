@@ -24,9 +24,8 @@
 }
 .footer{
     background-color: hotpink;
+    height: 50px;
+    font-size: 20px;
+    text-align: center;
 
-}
-.para{
-    background-color: blue;
-    color: white;
 }
