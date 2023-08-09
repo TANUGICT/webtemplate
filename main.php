@@ -1,8 +1,8 @@
 
-    <?php include 'include/header.php' ?>
+<?php include 'include/header.php' ?>
     
 
-    <div class="laita">
+<div class="laita">
     
 <div class="radha">
         <h1>I'am a good development</h1>
