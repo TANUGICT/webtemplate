@@ -18,14 +18,3 @@
 .header li a{
     text-decoration: none;
 }
-.radha h1{
-    background-color: red;
-    color: white;
-}
-.footer{
-    background-color: hotpink;
-    height: 50px;
-    font-size: 20px;
-    text-align: center;
-
-}

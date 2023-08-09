@@ -9,7 +9,6 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/service.css">
     <link rel="stylesheet" href="css/footer.css">
-    <link rel="stylesheet" href="css/contact.css">
 
 </head>
 <body>
