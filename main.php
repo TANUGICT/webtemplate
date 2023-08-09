@@ -17,7 +17,7 @@
             <li><a href="gallery">Gallery</a></li>
         </ul>
     </div>
-
+<?php include 'contact.php' ?>
     <div class="footer">
         <div class="para">
         <h1>GICT COMPUTER</h1>

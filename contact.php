@@ -1,7 +1,7 @@
 <?php include 'include/header.php'?>
 <div class="laita">
     
-    <div class="radha">
+<div class="radha">
         <h1>I'am a good development</h1>
         <h2>He is a browser</h2>
     </div>
