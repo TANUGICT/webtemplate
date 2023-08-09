@@ -13,7 +13,18 @@
     </div>
 </div>
 
-   
+   <!-- gallery -->
+   <div class="gallery-name"><h1>gallery</h1></div>
+    <div class="img-gallery">
+        <img src="images/11.jpg" alt="">
+        <img src="images/3.jpg" alt="">
+        <img src="images/6.jpg" alt="">
+        <img src="images/banner.avif" alt="">
+        <img src="images/download (3).jfif" alt="">
+        <img src="images/download (1).jfif" alt="">
+        <img src="images/download (2).jfif" alt="">
+        <img src="images/download.jfif" alt="">
+    </div>
 
 <?php include 'include/footer.php' ?>
    
