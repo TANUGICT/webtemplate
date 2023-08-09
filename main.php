@@ -16,7 +16,8 @@
    <!-- gallery -->
    <div class="gallery-name"><h1>gallery</h1></div>
     <div class="img-gallery">
-        <img src="images/11.jpg" alt="">
+        
+    
         <img src="images/3.jpg" alt="">
         <img src="images/6.jpg" alt="">
         <img src="images/certificat.avif" alt="">
