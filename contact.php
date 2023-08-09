@@ -10,12 +10,9 @@
     </div>
 </div>
 <?php include 'include/footer.php'?>
-<<<<<<< HEAD
 <div class="radha">
     <h1>this is some text</h1>
     </div>
    
 
 <?php include 'include/header.php'?>
-=======
->>>>>>> 2cd224cfa8896549c9d361b42f47634ed9e82bfc
