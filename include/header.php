@@ -12,7 +12,7 @@
 <body>
     <div class="header">
         <ul>
-            <li><a href="home">Home</a></li>
+            <li><a href="home.php">Home</a></li>
             <li><a href="about">About</a></li>
             <li><a href="Contact.php">Contact Us</a></li>
             <li><a href="services">Services</a></li>

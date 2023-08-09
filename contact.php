@@ -1,5 +1,4 @@
 <?php include 'include/header.php'?>
-<<<<<<< HEAD
 <div class="laita">
     
     <div class="radha">
@@ -11,11 +10,9 @@
     </div>
 </div>
 <?php include 'include/footer.php'?>
-=======
 <div class="radha">
     <h1>this is some text</h1>
     </div>
    
 
 <?php include 'include/header.php'?>
->>>>>>> f6272d23777ae26bc7f587a9d47aa9ab9d96c1ba
