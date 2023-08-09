@@ -5,7 +5,7 @@
         <h1>GICT COMPUTER</h1>
         </div>
         <div class="pa">
-        <h3>gictcomputer@gmail.com</h3>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod ex odio ipsa doloremque ullam quasi iure nisi ad in, omnis beatae impedit odit nobis neque architecto explicabo? Eos, alias quibusdam.
         </div>
     </div>
 </body>
