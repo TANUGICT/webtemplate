@@ -5,11 +5,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>website</title>
-<<<<<<< HEAD
     <link rel="stylesheet" href="css/service.css">
-=======
     <link rel="stylesheet" href="css/style.css">
->>>>>>> 2f327a094b8842d30229010b62efce49ab2d2501
+    <link rel="stylesheet" href="css/service.css">
+
 </head>
 <body>
     <div class="header">
