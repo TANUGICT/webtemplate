@@ -1,6 +1,7 @@
 .radha h1{
     background-color: red;
     color: white;
+    
 }
 .footer{
     background-color: hotpink;
@@ -8,4 +9,25 @@
     font-size: 20px;
     text-align: center;
 
+}
+.radha h2{
+    margin-top: 200px;
+    margin-left: 50px;
+}
+.lalita p{
+    margin-left: 50px;
+    
+}
+.radha h2{
+    margin-left: 50px; 
+}
+.rani a{
+    text-decoration: none;
+    margin-left:50px;
+    border: 2px solid black;
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    color: wheat;
+    margin-top: 6px;
 }
