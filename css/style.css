@@ -7,13 +7,28 @@
     list-style-type: none;
     margin: 0px;
     padding: 0px;
-    height: 45px;
+    height: 35px;
+   
 }
 .header li{
     display: inline;
-    padding: 2px 16px;
-    margin-left: 45px;
+    padding: 2px 20px;
+    margin-left: 140px;
+    font-size: 20px;
+   
+    
 
+}
+h2{
+    color: rgb(85, 2, 2);
+}
+.header li a.active{
+    background-color: blue;
+    
+}
+.header li a:hover{
+    background-color: green;
+    color: red;
 }
 .radha h1{
     background-color: red;
