@@ -17,6 +17,7 @@
         <h2 class="h2">Gict computer</h2>
         <ul>
             <li><a class="active" href="main.php">Home</a></li>
+            
             <li><a href="main.php">Home</a></li>
             <li><a href="about.php">About</a></li>
             <li><a href="Contact.php">Contact Us</a></li>
